@@ -1,11 +1,11 @@
 Images
 
 <img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/userRegister.PNG">
-<img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/userLogin.PNG>
-<img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/updateLog.PNG>
-<img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/logCreate.PNG>
-<img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/getLogs.PNG>
-<img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/deleteLog.PNG>
+<img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/userLogin.PNG">
+<img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/updateLog.PNG">
+<img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/logCreate.PNG">
+<img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/getLogs.PNG">
+<img src="https://github.com/TelmaChapa/WorkoutLogServer/blob/main/assets/deleteLog.PNG">
 
 
 
